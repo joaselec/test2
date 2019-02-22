@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: LDCC
+Class-Path: aspectjrt-1.6.10.RELEASE.jar
+Build-Jdk: 1.8.0_171
+Created-By: Maven Integration for Eclipse
+Main-Class: com.tuyano.App
+
